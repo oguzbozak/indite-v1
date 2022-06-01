@@ -1,0 +1,50 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-indite-dev-02439-authRole",
+      "UnauthRoleArn": "arn:aws:iam::506316343493:role/amplify-indite-dev-02439-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::506316343493:role/amplify-indite-dev-02439-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-indite-dev-02439-deployment",
+      "UnauthRoleName": "amplify-indite-dev-02439-unauthRole",
+      "StackName": "amplify-indite-dev-02439",
+      "StackId": "arn:aws:cloudformation:us-west-2:506316343493:stack/amplify-indite-dev-02439/6e5419b0-d94c-11ec-8894-02e202121795",
+      "AmplifyAppId": "dfe0ispde28pt"
+    },
+    "categories": {
+      "auth": {
+        "inditee95be640": {}
+      },
+      "function": {
+        "S3Triggerd85a26fb": {
+          "deploymentBucketName": "amplify-indite-dev-02439-deployment",
+          "s3Key": "amplify-builds/S3Triggerd85a26fb-644f7454736d37417144-build.zip"
+        }
+      }
+    }
+  },
+  "oguz": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-indite-oguz-215117-authRole",
+      "UnauthRoleArn": "arn:aws:iam::553963571878:role/amplify-indite-oguz-215117-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::553963571878:role/amplify-indite-oguz-215117-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-indite-oguz-215117-deployment",
+      "UnauthRoleName": "amplify-indite-oguz-215117-unauthRole",
+      "StackName": "amplify-indite-oguz-215117",
+      "StackId": "arn:aws:cloudformation:us-east-1:553963571878:stack/amplify-indite-oguz-215117/a9903e20-dc5b-11ec-8096-0e0dc7fb3703",
+      "AmplifyAppId": "dn099ppoafnv3"
+    },
+    "categories": {
+      "auth": {
+        "inditee95be640": {}
+      },
+      "function": {
+        "S3Triggerd85a26fb": {
+          "deploymentBucketName": "amplify-indite-oguz-215117-deployment",
+          "s3Key": "amplify-builds/S3Triggerd85a26fb-5a5864706a67324c2b31-build.zip"
+        }
+      }
+    }
+  }
+}

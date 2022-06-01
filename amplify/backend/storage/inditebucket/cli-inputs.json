@@ -1,0 +1,13 @@
+{
+  "resourceName": "inditebucket",
+  "policyUUID": "a72095c0",
+  "bucketName": "indite-bucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ"
+  ],
+  "groupAccess": {},
+  "triggerFunction": "S3Triggerd85a26fb"
+}
